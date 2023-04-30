@@ -1,2 +1,2 @@
-# github_branching-merging
-IBM Skills Network
+# IBM Skills Network
+# Github branching & merging Project
